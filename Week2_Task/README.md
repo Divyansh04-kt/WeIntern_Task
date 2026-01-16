@@ -65,8 +65,8 @@ The application uses MySQL database for persistent data storage and JDBC for dat
 
 ## Sample Output 
 ### Create and Deposit Operations
-![Create and Deposit Operations](output/Screenshot 2026-01-16 190641.png)
+![Create and Deposit Operations](output/create.png)
 
 ### Withdraw and Check Balance Operations
-![Withdraw and Check Balance Operations](output/Screenshot 2026-01-16 190641.png)
+![Withdraw and Check Balance Operations](output/withdraw.png)
 
